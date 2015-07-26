@@ -19,7 +19,7 @@ The R code in run_analysis.R proceeds under the assumption that the zip file ava
 * Finally, the summary dataset is written to a file, `dtTidy.txt`.
 
 ## More information
-For more details, kindly refer to the `run_analysis.R`(run_analysis.R) file.
+For more details, kindly refer to the [run_analysis.R](run_analysis.R) file.
 
 
 
